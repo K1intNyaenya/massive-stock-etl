@@ -132,7 +132,7 @@ The pipeline creates an `exchanges` table with the following columns:
 ## Configuration
 
 ### Environment Variables
-- `API_KEY` - Polygon.io API key for data access
+- `API_KEY` - massive.com API key for data access
 - `AIVEN_DB_URL` - PostgreSQL connection URL for Aiven database
 
 ### Data Processing
